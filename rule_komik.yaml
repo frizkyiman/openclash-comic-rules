@@ -1,0 +1,45 @@
+payload:
+  - DOMAIN-KEYWORD,comic
+  - DOMAIN-KEYWORD,komik
+  - DOMAIN-KEYWORD,scans
+  - DOMAIN-KEYWORD,scan
+  - DOMAIN-KEYWORD,manga
+  - DOMAIN-KEYWORD,manhwa
+  - DOMAIN-KEYWORD,manhua
+  - DOMAIN-KEYWORD,webtoon
+ # All
+  - DOMAIN-SUFFIX,webtoons.com
+  - DOMAIN-SUFFIX,mangadex.org
+  - DOMAIN-SUFFIX,bato.to
+  - DOMAIN-SUFFIX,batotoo.com
+  - DOMAIN-SUFFIX,bato.to
+  - DOMAIN-SUFFIX,bilibilicomics.com
+  
+ # Indonesia 
+  - DOMAIN-KEYWORD,komikcast
+  - DOMAIN-SUFFIX,komikcast.site
+  - DOMAIN-SUFFIX,reaperscans.id
+  - DOMAIN-SUFFIX,komikindo.id
+  - DOMAIN-SUFFIX,sigel.asia
+  - DOMAIN-SUFFIX,alceascan.my.id
+  - DOMAIN-SUFFIX,bacakomik.co
+  - DOMAIN-SUFFIX,boosei.net
+  - DOMAIN-SUFFIX,comicfx.net
+  - DOMAIN-SUFFIX,duniakomik.id
+  - DOMAIN-SUFFIX,kiryuu.co
+  - DOMAIN-KEYWORD,kiryuu
+  - DOMAIN-SUFFIX,komikav.com
+  - DOMAIN-SUFFIX,komiklab.com
+  - DOMAIN-SUFFIX,komikid.com
+  - DOMAIN-SUFFIX,komiku.id
+  
+ # English
+  - DOMAIN-SUFFIX,asurascans.com
+  - DOMAIN-SUFFIX,asura.gg
+  - DOMAIN-SUFFIX,reaperscans.com
+  - DOMAIN-SUFFIX,hiperdex.com
+  - DOMAIN-SUFFIX,toonily.com
+  - DOMAIN-SUFFIX,manytoon.com
+  
+ # NSFW/+18 Tag
+  - DOMAIN-SUFFIX,nhentai.net
