@@ -7,6 +7,7 @@ payload:
   - DOMAIN-KEYWORD,manhwa
   - DOMAIN-KEYWORD,manhua
   - DOMAIN-KEYWORD,webtoon
+  - DOMAIN-KEYWORD,doujin
  # All
   - DOMAIN-SUFFIX,webtoons.com
   - DOMAIN-SUFFIX,mangadex.org
