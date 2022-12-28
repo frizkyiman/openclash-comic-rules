@@ -1,7 +1,6 @@
 payload:
   - DOMAIN-KEYWORD,comic
   - DOMAIN-KEYWORD,komik
-  - DOMAIN-KEYWORD,scans
   - DOMAIN-KEYWORD,scan
   - DOMAIN-KEYWORD,manga
   - DOMAIN-KEYWORD,manhwa
@@ -13,7 +12,6 @@ payload:
   - DOMAIN-SUFFIX,mangadex.org
   - DOMAIN-SUFFIX,bato.to
   - DOMAIN-SUFFIX,batotoo.com
-  - DOMAIN-SUFFIX,bato.to
   - DOMAIN-SUFFIX,bilibilicomics.com
   
  # Indonesia 
