@@ -1,4 +1,5 @@
 payload:
+ # Keyword
   - DOMAIN-KEYWORD,comic
   - DOMAIN-KEYWORD,komik
   - DOMAIN-KEYWORD,scan
@@ -7,12 +8,27 @@ payload:
   - DOMAIN-KEYWORD,manhua
   - DOMAIN-KEYWORD,webtoon
   - DOMAIN-KEYWORD,doujin
+  
  # All
   - DOMAIN-SUFFIX,webtoons.com
   - DOMAIN-SUFFIX,mangadex.org
   - DOMAIN-SUFFIX,bato.to
-  - DOMAIN-SUFFIX,batotoo.com
   - DOMAIN-SUFFIX,bilibilicomics.com
+ 
+ # Bato.to mirror
+  - DOMAIN-SUFFIX,batotoo.com
+  - DOMAIN-SUFFIX,batocc.com
+  - DOMAIN-SUFFIX,batotwo.com
+  - DOMAIN-SUFFIX,battwo.com
+  - DOMAIN-SUFFIX,comiko.net
+  - DOMAIN-SUFFIX,mangatoto.com
+  - DOMAIN-SUFFIX,mangatoto.net
+  - DOMAIN-SUFFIX,mangatoto.org
+  - DOMAIN-SUFFIX,mycordant.co.uk
+  - DOMAIN-SUFFIX,dto.to
+  - DOMAIN-SUFFIX,hto.to
+  - DOMAIN-SUFFIX,mto.to
+  - DOMAIN-SUFFIX,wto.to
   
  # Indonesia 
   - DOMAIN-KEYWORD,komikcast
