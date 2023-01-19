@@ -26,7 +26,6 @@ rule_komik:
   - REJECT
   - Route ID
   - Route SG
-  - Route GAME
   - Route BACKUP
   use:
   - BACKUP-SERVER
