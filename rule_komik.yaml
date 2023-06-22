@@ -47,6 +47,7 @@ payload:
   - DOMAIN-SUFFIX,komiklab.com
   - DOMAIN-SUFFIX,komikid.com
   - DOMAIN-SUFFIX,komiku.id
+  - DOMAIN-SUFFIX,shinigami.id
   
  # English
   - DOMAIN-SUFFIX,asurascans.com
