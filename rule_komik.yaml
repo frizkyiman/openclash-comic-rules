@@ -32,9 +32,8 @@ payload:
   
  # Indonesia 
   - DOMAIN-KEYWORD,komikcast
-  - DOMAIN-SUFFIX,komikcast.site
+  - DOMAIN-SUFFIX,komikcast.lol
   - DOMAIN-SUFFIX,komikindo.id
-  - DOMAIN-SUFFIX,sigel.asia
   - DOMAIN-SUFFIX,alceascan.my.id
   - DOMAIN-SUFFIX,bacakomik.co
   - DOMAIN-SUFFIX,boosei.net
@@ -46,7 +45,9 @@ payload:
   - DOMAIN-SUFFIX,komiklab.com
   - DOMAIN-SUFFIX,komikid.com
   - DOMAIN-SUFFIX,komiku.id
-  - DOMAIN-SUFFIX,shinigami.sh
+  - DOMAIN-SUFFIX,westmanga.fun
+  - DOMAIN-SUFFIX,shinigami.ae
+  - DOMAIN-KEYWORD,shinigami
   
  # English
   - DOMAIN-SUFFIX,asurascans.com
